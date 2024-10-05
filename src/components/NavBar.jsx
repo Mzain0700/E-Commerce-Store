@@ -11,7 +11,7 @@ export default function NavBar() {
 
 
         <NavLink className="navbar-brand" to="/">
-          <h1 >Zain Store</h1>
+          <h1 >Ecommerce Store</h1>
         </NavLink>
 
 
