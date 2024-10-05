@@ -1,0 +1,16 @@
+.navbar-brand h1 {
+    color: #3aafa9;
+    font-family: cursive;
+    font-size: 30px;
+  }
+ #buttonleft{
+    /* text-content: end; */
+    justify-content:end ;
+/* float: right; */
+    /* margin-left: 300px; */
+    
+  }
+
+  #navbarTogglerDemo01{
+    justify-content: center;
+  }
